@@ -130,3 +130,11 @@ a:hover{
 background-color:rgba(126, 126, 105, 0.623);
 color:rgba(183, 255, 0, 0.963);
 }
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/21/12/09/heart-1213475_1280.jpg");
+    background-position: contain;
+    background-position:center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
